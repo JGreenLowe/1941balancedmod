@@ -1521,7 +1521,7 @@
       <option name="objectiveValue" value="3"/>
 	  <option name="turns" value="2-+"/>
       <option name="alliedOwnershipTerritories" value="Persia:Caucasus" count="2"/>
-	  <option name="enemyExclusionTerritories" value="64 Sea Zone"/>
+	  <option name="enemyExclusionTerritories" value="34 Sea Zone"/>
     </attachment>
 	<attachment name="objectiveAttachment3" attachTo="Russians" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
       <option name="objectiveValue" value="3"/>
